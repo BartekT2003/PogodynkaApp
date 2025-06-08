@@ -202,6 +202,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         windSpeedTextView.setText("Wiatr: " + String.format("%.1f", weather.getWindSpeed()) + " m/s");
         
         setWeatherIconAndBackground(weather.getDescription());
+        addToFavoritesButton.setVisibility(View.VISIBLE);
     }
 
     private void setWeatherIconAndBackground(String weatherDescription) {

@@ -118,42 +118,6 @@ services/
 - [ ] Responsywne layouty
 - [ ] Loading indicators
 
-## 🎓 Demonstrowane umiejętności programistyczne
-
-### Wzorce projektowe:
-- **Adapter Pattern**: RecyclerView adapters
-- **Observer Pattern**: Firebase listeners
-- **Callback Pattern**: API responses
-- **Singleton**: Service classes
-
-### Best Practices:
-- **Separation of Concerns**: Models, Services, Activities
-- **Error Handling**: Try-catch, null checks
-- **User Experience**: Loading states, error messages
-- **Code Organization**: Proper package structure
-
-### Android Specifics:
-- **Lifecycle Management**: Proper activity states
-- **Resource Management**: Strings, colors, layouts
-- **Permissions**: Runtime permission handling
-- **Threading**: UI thread vs background tasks
-
-## 📈 Poziom zaawansowania
-
-### Podstawowy ✅:
-- Activities, Layouts, Basic UI
-
-### Średniozaawansowany ✅:
-- RecyclerView, Adapters, Navigation
-- REST API, JSON parsing
-- Permissions, Location services
-
-### Zaawansowany ✅:
-- Firebase Authentication & Database
-- Google Sign-In integration
-- Material Design 3 implementation
-- Error handling & user experience
-
 ## 💡 Uwagi dla oceny
 
 ### Mocne strony:

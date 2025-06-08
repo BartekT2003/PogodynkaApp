@@ -188,7 +188,7 @@ pogodynkaapp-f3a47/
 
 ---
 
-**Autor**: [Twoje Imię]  
-**Data**: [Aktualna data]  
+**Autor**: Bartosz Tałanda
+**Data**: 08.06.2025
 **Wersja**: 1.0  
 **Status**: Gotowe do oceny ✅ 

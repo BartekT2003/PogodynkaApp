@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941441828155",
+    "firebase_url": "https://pogodynkaapp-f3a47-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pogodynkaapp-f3a47",
+    "storage_bucket": "pogodynkaapp-f3a47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941441828155:android:067554a1e471ec8f42231e",
+        "android_client_info": {
+          "package_name": "com.example.pogodynkaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941441828155-md85afkc6n6mroqi7pqke1h7gajl3pu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILq6Jg0FuxjWRlmqEy1U8nAJzhzWlij4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941441828155-md85afkc6n6mroqi7pqke1h7gajl3pu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

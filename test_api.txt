@@ -1,0 +1,7 @@
+Test API URL:
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=24256169e77a01b086d81b77e59956f7&units=metric
+
+Otwórz ten URL w przeglądarce, żeby sprawdzić czy API działa.
+
+Jeśli zwraca błąd 401 = problem z kluczem API
+Jeśli zwraca dane JSON = API działa poprawnie 
